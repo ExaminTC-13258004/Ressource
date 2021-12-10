@@ -1,0 +1,5 @@
+SVG guidelins 
+http://deveplopper.mozzila.org/en_US/docs/mozila/developper_guide /SVG_guides
+
+W3C vibration API 
+https://www.w3.org/TR/vibration/
